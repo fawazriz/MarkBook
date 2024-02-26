@@ -28,4 +28,10 @@ MarkBook is a comprehensive student management and grade-tracking application de
 ### Student Interface
 ![Student Interface](images/studentControls.jpg)
 
+## Technical Overview
+
+* **Programming Language**: C#
+* **Database**: MS Access, with SQL queries for data management.
+* **External Resources**: Utilized [connectionstrings.com](https://www.connectionstrings.com) for database connection strings and SQL query execution.
+
 
