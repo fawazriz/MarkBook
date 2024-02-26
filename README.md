@@ -19,10 +19,13 @@ MarkBook is a comprehensive student management and grade-tracking application de
 
 ## Screenshots
 
-Here you can insert images/screenshots of your application. Use Markdown or HTML to embed the images.
-
-```markdown
+### Login Page
 ![Login Interface](images/loginPage.jpg)
+
+### Admin Interface
 ![Admin Interface](images/adminControls.jpg)
+
+### Student Interface
 ![Student Interface](images/studentControls.jpg)
+
 
